@@ -14,4 +14,4 @@ export async function getServerSideProps() {
   // Pass data to the page via props
   return { props: { data } }
 }
-export default Page
+export default Page 
